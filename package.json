@@ -22,5 +22,8 @@
     "json",
     "rss",
     "feeds"
-  ]
+  ],
+  "dependencies": {
+    "ajv": "^5.1.5"
+  }
 }
