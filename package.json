@@ -1,0 +1,26 @@
+{
+  "name": "rss-in-json-schema-validator",
+  "version": "0.0.0",
+  "description": "Schema and validator for RSS-in-JSON",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danmactough/rss-in-json-schema-validator.git"
+  },
+  "author": "Dan MacTough <danmactough@gmail.com> (http://mact.me/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/danmactough/rss-in-json-schema-validator/issues"
+  },
+  "homepage": "https://github.com/danmactough/rss-in-json-schema-validator#readme",
+  "keywords": [
+    "schema",
+    "validator",
+    "json",
+    "rss",
+    "feeds"
+  ]
+}
