@@ -1,6 +1,6 @@
 {
   "name": "rss-in-json-schema-validator",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Schema and validator for RSS-in-JSON",
   "main": "index.js",
   "scripts": {
