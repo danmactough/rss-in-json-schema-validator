@@ -1,4 +1,7 @@
 # rss-in-json-schema-validator
+
+[![Build Status](https://travis-ci.org/danmactough/rss-in-json-schema-validator.svg?branch=master)](https://travis-ci.org/danmactough/rss-in-json-schema-validator)
+
 A [JSON Schema](http://json-schema.org/) and schema validator for
 [RSS-in-JSON](https://github.com/scripting/Scripting-News/tree/master/rss-in-json).
 
