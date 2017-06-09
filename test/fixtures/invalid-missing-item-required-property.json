@@ -1,0 +1,29 @@
+{
+  "rss": {
+    "version": "2.0",
+    "channel": {
+      "title": "Scripting News",
+      "link": "http://scripting.com/",
+      "description": "Scripting News, the weblog started in 1997 that bootstrapped the blogging revolution.",
+      "pubDate": "Thu, 08 Jun 2017 21:36:33 GMT",
+      "lastBuildDate": "Thu, 08 Jun 2017 21:40:51 GMT",
+      "language": "en-us",
+      "copyright": "&copy; 1994-2017 <a href=\"http://davewiner.com/\">Dave Winer</a>.",
+      "generator": "oldSchool v0.41d",
+      "docs": "https://github.com/scripting/Scripting-News/blob/master/rss-in-json/README.md",
+      "cloud": {
+        "domain": "rpc.rsscloud.io",
+        "port": 5337,
+        "path": "/ping",
+        "registerProcedure": "",
+        "protocol": "http-post"
+      },
+      "item": [
+        {
+          "pubDate": "Thu, 08 Jun 2017 21:36:33 GMT",
+          "guid": "http://scripting.com/2017/06/08.html#a050633"
+        }
+      ]
+    }
+  }
+}
