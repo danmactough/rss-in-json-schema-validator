@@ -1,0 +1,57 @@
+{
+  "rss": {
+    "version": "2.0",
+    "xmlns:source": "http://source.scripting.com/",
+    "channel": {
+      "title": "Scripting News",
+      "link": "http://scripting.com/",
+      "description": "Scripting News, the weblog started in 1997 that bootstrapped the blogging revolution.",
+      "pubDate": "Thu, 08 Jun 2017 21:36:33 GMT",
+      "lastBuildDate": "Thu, 08 Jun 2017 21:40:51 GMT",
+      "language": "en-us",
+      "copyright": "&copy; 1994-2017 <a href=\"http://davewiner.com/\">Dave Winer</a>.",
+      "generator": "oldSchool v0.41d",
+      "docs": "https://github.com/scripting/Scripting-News/blob/master/rss-in-json/README.md",
+      "source:localTime": "Thu, June 8, 2017 5:40 PM EDT",
+      "cloud": {
+        "domain": "rpc.rsscloud.io",
+        "port": 5337,
+        "path": "/ping",
+        "registerProcedure": "",
+        "protocol": "http-post"
+      },
+      "source:account": [
+        {
+          "service": "twitter",
+          "#value": "davewiner"
+        },
+        {
+          "service": "facebook",
+          "#value": "dave.winer.12"
+        },
+        {
+          "service": "github",
+          "#value": "scripting"
+        },
+        {
+          "service": "linkedin",
+          "#value": "scripting"
+        }
+      ],
+      "item": [
+        {
+          "link": "http://scripting.com/2017/06/08.html#a050633",
+          "description": "Trump <a href=\"http://www.mediaite.com/tv/james-comey-admits-on-hillary-e-mail-probe-bill-clintonlynch-meeting-influenced-me/\">had</a> an opinion re Bill Clinton <a href=\"http://www.mediaite.com/tv/james-comey-admits-on-hillary-e-mail-probe-bill-clintonlynch-meeting-influenced-me/\">meeting</a> with Attorney General Lynch on tarmac, so <a href=\"https://www.vox.com/2017/6/8/15762458/comey-republicans-dont-care\">new to this</a> is BS.",
+          "pubDate": "Thu, 08 Jun 2017 21:36:33 GMT",
+          "guid": "http://scripting.com/2017/06/08.html#a050633",
+          "source:outline": {
+            "text": "Trump <a href=\"http://www.mediaite.com/tv/james-comey-admits-on-hillary-e-mail-probe-bill-clintonlynch-meeting-influenced-me/\">had</a> an opinion re Bill Clinton <a href=\"http://www.mediaite.com/tv/james-comey-admits-on-hillary-e-mail-probe-bill-clintonlynch-meeting-influenced-me/\">meeting</a> with Attorney General Lynch on tarmac, so <a href=\"https://www.vox.com/2017/6/8/15762458/comey-republicans-dont-care\">new to this</a> is BS.",
+            "created": "Thu, 08 Jun 2017 21:36:33 GMT",
+            "type": "outline",
+            "permalink": "http://scripting.com/2017/06/08.html#a050633"
+          }
+        }
+      ]
+    }
+  }
+}
